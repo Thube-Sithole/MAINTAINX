@@ -1,0 +1,32 @@
+{
+  "id": "e9650982-d760-4b62-b09f-f9aeaa72d67f",
+  "name": "MAINTAINX Business Central Integration",
+  "publisher": "MAINTAINX",
+  "version": "1.0.0.0",
+  "brief": "Predictive industrial equipment intelligence integration.",
+  "description": "Integrates MAINTAINX predictive equipment condition assessments with Microsoft Dynamics 365 Business Central.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/Thube-Sithole/MAINTAINX",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
